@@ -1,2 +1,3 @@
 # Younggyu_BaekjoonHub
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+BaekjoonHub를 이용하여 백준 정답 소스가 자동 git push 되어 여기에 저장됩니다.
